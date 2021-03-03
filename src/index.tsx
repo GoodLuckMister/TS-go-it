@@ -1,5 +1,5 @@
-import './1-primitives';
-// import './2-arrays';
+// import './1-primitives';
+import './2-arrays';
 // import './3-types';
 // import './4-interface';
 // import './5-enums';
